@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965096200994",
+    "project_id": "real-time-update-application",
+    "storage_bucket": "real-time-update-application.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965096200994:android:0257336a5244f65125237b",
+        "android_client_info": {
+          "package_name": "com.example.real_time_update_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPIcei96bjL3ZwqAIcuoINpKMMOPcebfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
